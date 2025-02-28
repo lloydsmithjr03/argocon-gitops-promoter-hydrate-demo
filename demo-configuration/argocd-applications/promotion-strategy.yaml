@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: promotion-strategy
+  name: argocon-promotion-strategy
   namespace: argocd
 spec:
   ignoreDifferences:

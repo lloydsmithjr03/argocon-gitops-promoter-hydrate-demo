@@ -3,7 +3,7 @@ kind: PromotionStrategy
 metadata:
   annotations:
   name: argocon-demo
-  namespace: default
+  namespace: argocd
 spec:
   activeCommitStatuses:
   - key: argocd-health
