@@ -12,7 +12,7 @@ spec:
   sourceHydrator:
     drySource:
       path: user-configuration/development
-      repoURL: https://github.com/zachaller/argocon-gitops-promoter-hydrate-demo.git
+      repoURL: https://github.com/lloydsmithjr03/argocon-gitops-promoter-hydrate-demo.git
       targetRevision: HEAD
     hydrateTo:
       targetBranch: environments/development-next

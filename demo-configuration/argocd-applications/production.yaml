@@ -12,7 +12,7 @@ spec:
   sourceHydrator:
     drySource:
       path: user-configuration/production/us-east-2
-      repoURL: https://github.com/zachaller/argocon-gitops-promoter-hydrate-demo.git
+      repoURL: https://github.com/lloydsmithjr03/argocon-gitops-promoter-hydrate-demo.git
       targetRevision: HEAD
     hydrateTo:
       targetBranch: environments/production-next
@@ -36,7 +36,7 @@ spec:
   sourceHydrator:
     drySource:
       path: user-configuration/production/us-west-1
-      repoURL: https://github.com/zachaller/argocon-gitops-promoter-hydrate-demo.git
+      repoURL: https://github.com/lloydsmithjr03/argocon-gitops-promoter-hydrate-demo.git
       targetRevision: HEAD
     hydrateTo:
       targetBranch: environments/production-next

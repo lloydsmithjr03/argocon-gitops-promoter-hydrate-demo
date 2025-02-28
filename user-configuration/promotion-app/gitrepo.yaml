@@ -8,6 +8,6 @@ metadata:
   namespace: default
 spec:
   name: argocon-gitops-promoter-hydrate-demo
-  owner: zachaller
+  owner: lloydsmithjr03
   scmProviderRef:
     name: scmprovider-sample
