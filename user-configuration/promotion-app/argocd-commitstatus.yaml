@@ -1,7 +1,7 @@
 apiVersion: promoter.argoproj.io/v1alpha1
 kind: ArgoCDCommitStatus
 metadata:
-  name: argocdcommitstatus-sample
+  name: argocon-demo-argocdcommitstatus
   namespace: argocd
 spec:
   promotionStrategyRef:
