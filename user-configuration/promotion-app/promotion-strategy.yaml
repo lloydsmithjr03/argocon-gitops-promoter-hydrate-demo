@@ -12,7 +12,5 @@ spec:
     autoMerge: false
   - branch: environments/staging
   - branch: environments/production
-    proposedCommitStatuses:
-    - key: hcap
   gitRepositoryRef:
     name: argocon-demo
