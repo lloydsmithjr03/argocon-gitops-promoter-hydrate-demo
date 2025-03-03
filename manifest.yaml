@@ -74,6 +74,7 @@ spec:
       labels:
         app: canary-demo
         environment: development
+        test: testing
     spec:
       containers:
         - image: argoproj/rollouts-demo:slow-purple
