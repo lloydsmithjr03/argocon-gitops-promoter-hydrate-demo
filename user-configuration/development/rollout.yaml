@@ -10,3 +10,4 @@ spec:
     metadata:
       labels:
         environment: development
+        test: testing
